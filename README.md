@@ -1,2 +1,2 @@
 # bijak
-[Netlify](rk-bijak.netlify.app)
+[Netlify](rk-bijak.netlify.app/)
